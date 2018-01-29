@@ -11,6 +11,13 @@ Prerequisites:
  * autoconf
  * libncurses5-dev
  * inotify-tools
+ 
+Install Elixir:
+ * git clone https://github.com/elixir-lang/elixir.git
+ * cd elixir/
+ * git checkout v1.5.3
+ * make clean test
+ * sudo make install
 
 To start your Phoenix server:
 
