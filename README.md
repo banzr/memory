@@ -10,6 +10,7 @@ Prerequisites:
  * build-essential : make, gcc, g++, etc.
  * autoconf
  * libncurses5-dev
+ * inotify-tools
 
 To start your Phoenix server:
 
