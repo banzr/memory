@@ -7,12 +7,13 @@ Prerequisites:
  * Erlang / OTP ~ 20.2
  * Elixir ~ 1.5
  * NodeJS ~ 9.4
+ * build-essential : make, gcc, g++, etc.
 
 To start your Phoenix server:
 
  * Install dependencies with `mix deps.get`
  * Install Node.js dependencies with `cd assets && npm install`
- * Start Phoenix endpoint with `mix phx.server`
+ * Start Phoenix endpoint with `cd .. && mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
