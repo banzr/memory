@@ -9,6 +9,7 @@ Prerequisites:
  * NodeJS ~ 9.4
  * build-essential : make, gcc, g++, etc.
  * autoconf
+ * libncurses5-dev
 
 To start your Phoenix server:
 
