@@ -8,6 +8,7 @@ Prerequisites:
  * Elixir ~ 1.5
  * NodeJS ~ 9.4
  * build-essential : make, gcc, g++, etc.
+ * autoconf
 
 To start your Phoenix server:
 
